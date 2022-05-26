@@ -14,6 +14,10 @@ struct DimView: View {
             Text("Yo !")
             Text("Dim")
             Text("Yo !")
+            Text("Dim")
+            Text("Yo !")
+            Text("Dim")
+            Text("Yo !")
         }
     }
 }
