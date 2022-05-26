@@ -12,6 +12,8 @@ struct DimView: View {
         VStack {
             Text("Dim")
             Text("Yo !")
+            Text("Dim")
+            Text("Yo !")
         }
     }
 }
