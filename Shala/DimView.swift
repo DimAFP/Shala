@@ -9,7 +9,10 @@ import SwiftUI
 
 struct DimView: View {
     var body: some View {
-        Text("Dim")
+        VStack {
+            Text("Dim")
+            Text("Yo !")
+        }
     }
 }
 
